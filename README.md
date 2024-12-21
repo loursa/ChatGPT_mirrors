@@ -17,25 +17,25 @@ ChatGPT是一款由OpenAI开发的先进AI对话模型，近年来以其卓越�
 ## 3. 精选ChatGPT镜像网站推荐  
 以下是经过筛选的优质ChatGPT镜像网站，供您快速选择：  
 
-### [3.1 SnakeGPT](https://snakegpt.work)  
+### 3.1 SnakeGPT:(https://snakegpt.work)  
 - **支持版本**：GPT-4、GPT-3.5  
 - **注册方式**：支持国内邮箱注册  
 - **稳定性**：⭐⭐⭐⭐⭐  
 - **功能亮点**：支持GPT-4.0，内置MidJourney绘图功能，适合开发者与普通用户，是一站式AI工具的优质选择。
 
-### [3.2 GPTCat](https://gptcat.net/)  
+### 3.2 GPTCat(https://gptcat.net/)  
 - **支持版本**：GPT-4、GPT-3.5、GPT-01、Claude  
 - **注册方式**：支持国内邮箱注册  
 - **稳定性**：⭐⭐⭐⭐⭐  
 - **功能亮点**：提供实时语音功能，完整支持GPT和Claude模型，适合需要语音和多模态支持的用户。
 
-### [3.3 AI Panda](https://ai-panda.xyz/login?invite_code=34137c47)  
+### 3.3 AI Panda([https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47))  
 - **支持版本**：GPT-4、GPT-3.5  
 - **注册方式**：支持国内邮箱注册  
 - **稳定性**：⭐⭐⭐⭐⭐  
 - **功能亮点**：支持开发者API调用，可提供长时间服务，是技术开发者的理想选择。
 
-### [3.4 GPTDog](http://gptdog.online/)  
+### 3.4 GPTDog(http://gptdog.online/)  
 - **支持版本**：GPT-3.5  
 - **注册方式**：支持国内邮箱注册  
 - **稳定性**：⭐⭐⭐⭐  
